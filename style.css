@@ -1,0 +1,57 @@
+
+.banner h1{
+    font-size: 60px;
+    color: white;
+    font-weight: 700px;
+}
+.banner p{
+    color: white;
+}
+.banner button{
+    color: blue;
+}
+.banner a{
+    text-decoration: none;
+}
+.custom-icon{
+    size: 50px;
+    color: #ffffff;
+
+}
+.footer{
+    background-color: navy;
+}
+.card-body{
+    padding: 20px;
+    text-decoration: none;
+    
+}
+.card-body h5{
+    
+}
+.card-body p{
+    
+}
+.card-body button a{
+    
+    text-decoration: none;
+}
+.card-body i{
+    size: 18px;
+    color: blue;
+    background-color: rgb(56, 54, 54);
+    border-radius: 50%;
+}
+.vip{
+    background-color: blue;
+    border-radius: 20px;
+    
+}
+.footer {
+    
+.footer-right {
+
+}
+.footer-left{
+    
+}
